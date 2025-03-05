@@ -1,0 +1,14 @@
+var a
+var b
+function addition(){
+sum=a+b
+displayResult('sum')
+}
+function substraction(){
+sub=a-b
+displayResult('sub')
+}
+function calculator(){
+displayThisText(the result of the sub straction is'sub')
+displayThisText(the result of the sub straction is'add')
+}
